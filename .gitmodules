@@ -1,0 +1,3 @@
+[submodule "submoduleEx"]
+	path = submoduleEx
+	url = https://github.com/tlawlals112/submoduleEx.git
